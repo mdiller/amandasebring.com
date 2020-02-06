@@ -141,6 +141,7 @@ h2 {
 }
 
 .section {
+	overflow: auto;
 	position: relative;
 	padding-top: 150px;
 }
@@ -160,11 +161,11 @@ h2 {
 	top: 10px;
 }
 
-#content > div:last-child {
+#contact {
 	text-align: center;
 }
 
-#content > div:last-child h3 {
+#contact h3 {
 	margin-top: 15px;
 	margin-bottom: 5px;
 }
@@ -198,6 +199,41 @@ h1, h2, #navbar {
 #footer a:hover {
 	text-decoration: underline;
 }
+
+#pets > div {
+	overflow: auto;
+	display: block;
+	width: 100%;
+	margin-bottom: 30px;
+}
+
+#pets h3 {
+	margin-top: 10px;
+}
+
+#pets img {
+	float: left;
+	display: block;
+	width: 232px;
+	margin-right: 15px;
+	margin-bottom: 15px;
+}
+
+#pets ul {
+	overflow: hidden;
+}
+
+/*.pet:nth-child(odd) {
+	text-align: right;
+	float: right;
+}
+
+#pets div:nth-child(odd) img {
+	margin-left: 15px;
+	margin-right: 0px;
+	float: right;
+}*/
+
 
 @media only screen and (max-width: 768px) {
 	.navdiv li:nth-child(even) {

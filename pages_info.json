@@ -6,6 +6,12 @@
 		"content": "home.php"
 	},
 	{
+		"url": "pets",
+		"title": "Family",
+		"navbar": "Family",
+		"content": "pets.php"
+	},
+	{
 		"url": "contact",
 		"title": "Contact Information",
 		"navbar": "Contact",
