@@ -4,7 +4,7 @@ include "templates/header.php";
 ?>
 <div id="page">
 <div id="title">
-	<img src="<?php echo "images/background.jpg"; ?>">
+	<!-- <img src="<?php echo "images/background.jpg"; ?>"> -->
 	<div>
 		<h1>Amanda Sebring</h1>
 		A fuckin' badass human
@@ -17,7 +17,7 @@ include "templates/header.php";
 <?php
 
 
-foreach($page_infos as $page) {
+foreach($json_page_infos as $page) {
 ?>
 	<div id="<?php echo $page['url']; ?>" class="section">
 		<h2><?php echo $page['title']; ?></h2>

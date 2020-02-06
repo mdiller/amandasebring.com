@@ -1,6 +1,5 @@
 <?php
-// $page_infos = json_decode(file_get_contents("pages_info.json"), true);
-include "pages_info.php";
+$json_page_infos = json_decode(file_get_contents("pages_info.json"), true);
 
 define("SITE_URL", "http://" . $_SERVER['SERVER_NAME']);
 
@@ -44,7 +43,7 @@ function yearsSince($then) {
 				<ul>
 					<?php
 					$first = true;
-					foreach($page_infos as $page){
+					foreach($json_page_infos as $page){
 						if (!$first) {
 							echo "<li>&#8226;</li>";
 						}
