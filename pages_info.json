@@ -1,0 +1,14 @@
+[
+	{
+		"url": "",
+		"title": "Welcome",
+		"navbar": "Home",
+		"content": "home.php"
+	},
+	{
+		"url": "contact",
+		"title": "Contact Information",
+		"navbar": "Contact",
+		"content": "contact.php"
+	}
+]
