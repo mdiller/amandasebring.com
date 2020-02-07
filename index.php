@@ -4,8 +4,9 @@ include "templates/header.php";
 ?>
 <div id="page">
 <div id="title">
-	<!-- <img src="<?php echo "images/background.jpg"; ?>"> -->
+	<img id="backsplash" src="<?php echo "images/background.jpg"; ?>">
 	<div>
+		<img id="faceimg" src="images/face.png" />
 		<h1>Amanda Sebring</h1>
 		A fuckin' badass human
 	</div>

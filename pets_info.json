@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Comet",
-		"image": null,
+		"image": "images/comet.png",
 		"description": "Proud pillow carrier. Always hunting for the next sock. Enjoys long walks on the anywhere.",
 		"job": "Sprinter",
 		"born": "Aug 2019",
@@ -12,7 +12,7 @@
 	},
 	{
 		"name": "Minerva (Minnie)",
-		"image": null,
+		"image": "images/minnie.png",
 		"description": "Seeks warmth and scritches. Investigates interesting places. Hunts dangerous plants.",
 		"job": "Private Investigator",
 		"born": "Nov 2018",
@@ -23,7 +23,7 @@
 	},
 	{
 		"name": "Fizzgig",
-		"image": null,
+		"image": "images/fizzgig.png",
 		"description": "The top dog. The little big brother. Keeps the house safe. Prevents any tomfoolery.",
 		"job": "The Police",
 		"born": "Oct 2014",
@@ -34,7 +34,7 @@
 	},
 	{
 		"name": "Oscar",
-		"image": null,
+		"image": "images/oscar.png",
 		"description": "Glares at intruders. Doesn't like company. Denizen of the Cat Cave.",
 		"job": "Grandpa",
 		"born": "Jun 2008",

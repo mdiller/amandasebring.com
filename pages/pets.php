@@ -2,7 +2,7 @@
 
 <?php foreach($json_pet_infos as $pet) { ?>
 <div class="pet">
-<img src="images/face.jpg" />
+<img src="<?php echo $pet['image']; ?>" />
 <h3><?php echo $pet['name']; ?></h3>
 <?php echo parseAge($pet['born']); ?> Old<br>
 Job: <?php echo $pet['job']; ?><br>
