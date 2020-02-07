@@ -1,6 +1,6 @@
 :root {
 	--topbar-color: #333333;
-	--highlight-color: #02ccb2;
+	--highlight-color: #fd7000;
 	--text-color: #555555;
 	--background-color: #f8f8f8;
 	--content-size: 70%;
@@ -135,6 +135,7 @@ html, body {
 #backsplash {
 	object-fit: cover;
 	width: 100%;
+	max-height: 800px;
 }
 
 h2 {
@@ -284,6 +285,9 @@ h1, h2, #navbar {
 	}
 	#faceimg {
 		width: 100px;
+	}
+	#backsplash {
+		max-height: none;
 	}
 	#pets img {
 		width: 150px;
