@@ -47,7 +47,14 @@ function parseAge($birth) {
 
 <head>
 	<title>Amanda Sebring</title>
+	<link rel="shortcut icon" href="favicon.png">
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans|Lato|Roboto|Source+Sans+Pro" rel="stylesheet">
+	<link rel="apple-touch-icon-precomposed apple-touch-icon icon" sizes="180x180" href="http://amandasebring.com/images/comet_face_180.png">
+
+	<meta name="theme-color" content="#fd7000">
+	<meta name="msapplication-navbutton-color" content="#fd7000">
+	<meta name="apple-mobile-web-app-status-bar-style" content="#fd7000">
+
 	<meta property="og:title" content="Amanda Sebring"/>
 	<meta property="og:image" content="http://amandasebring.com/images/face.jpg"/>
 	<meta property="og:description" content="A fuckin' badass human"/>
