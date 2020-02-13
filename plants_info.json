@@ -1,43 +1,43 @@
 [
 	{
+		"image": "images/plants/plant_10.jpg",
+		"name": "plant 10"
+	},
+	{
 		"image": "images/plants/plant_1.jpg",
-		"name": "plan t1"
+		"name": "plant 1"
 	},
 	{
 		"image": "images/plants/plant_2.jpg",
-		"name": "plan t2"
+		"name": "plant 2"
 	},
 	{
 		"image": "images/plants/plant_3.jpg",
-		"name": "plan t3"
+		"name": "plant 3"
 	},
 	{
 		"image": "images/plants/plant_4.jpg",
-		"name": "plan t4"
+		"name": "plant 4"
 	},
 	{
 		"image": "images/plants/plant_5.jpg",
-		"name": "plan t5"
+		"name": "plant 5"
 	},
 	{
 		"image": "images/plants/plant_6.jpg",
-		"name": "plan t6"
+		"name": "plant 6"
 	},
 	{
 		"image": "images/plants/plant_7.jpg",
-		"name": "plan t7"
+		"name": "plant 7"
 	},
 	{
 		"image": "images/plants/plant_8.jpg",
-		"name": "plan t8"
+		"name": "plant 8"
 	},
 	{
 		"image": "images/plants/plant_9.jpg",
-		"name": "plan t9"
-	},
-	{
-		"image": "images/plants/plant_10.jpg",
-		"name": "plant 10"
+		"name": "plant 9"
 	},
 	{
 		"image": "images/plants/plant_11.jpg",
