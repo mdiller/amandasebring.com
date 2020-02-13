@@ -1,14 +1,118 @@
 [
 	{
-		"image": "images/plants/plant1.jpg",
-		"name": "plant1"
+		"image": "images/plants/plant_1.jpg",
+		"name": "plan t1"
 	},
 	{
-		"image": "images/plants/plant2.jpg",
-		"name": "plant2"
+		"image": "images/plants/plant_2.jpg",
+		"name": "plan t2"
 	},
 	{
-		"image": "images/plants/plant3.jpg",
-		"name": "plant3"
+		"image": "images/plants/plant_3.jpg",
+		"name": "plan t3"
+	},
+	{
+		"image": "images/plants/plant_4.jpg",
+		"name": "plan t4"
+	},
+	{
+		"image": "images/plants/plant_5.jpg",
+		"name": "plan t5"
+	},
+	{
+		"image": "images/plants/plant_6.jpg",
+		"name": "plan t6"
+	},
+	{
+		"image": "images/plants/plant_7.jpg",
+		"name": "plan t7"
+	},
+	{
+		"image": "images/plants/plant_8.jpg",
+		"name": "plan t8"
+	},
+	{
+		"image": "images/plants/plant_9.jpg",
+		"name": "plan t9"
+	},
+	{
+		"image": "images/plants/plant_10.jpg",
+		"name": "plant 10"
+	},
+	{
+		"image": "images/plants/plant_11.jpg",
+		"name": "plant 11"
+	},
+	{
+		"image": "images/plants/plant_12.jpg",
+		"name": "plant 12"
+	},
+	{
+		"image": "images/plants/plant_13.jpg",
+		"name": "plant 13"
+	},
+	{
+		"image": "images/plants/plant_14.jpg",
+		"name": "plant 14"
+	},
+	{
+		"image": "images/plants/plant_15.jpg",
+		"name": "plant 15"
+	},
+	{
+		"image": "images/plants/plant_16.jpg",
+		"name": "plant 16"
+	},
+	{
+		"image": "images/plants/plant_17.jpg",
+		"name": "plant 17"
+	},
+	{
+		"image": "images/plants/plant_18.jpg",
+		"name": "plant 18"
+	},
+	{
+		"image": "images/plants/plant_19.jpg",
+		"name": "plant 19"
+	},
+	{
+		"image": "images/plants/plant_20.jpg",
+		"name": "plant 20"
+	},
+	{
+		"image": "images/plants/plant_21.jpg",
+		"name": "plant 21"
+	},
+	{
+		"image": "images/plants/plant_22.jpg",
+		"name": "plant 22"
+	},
+	{
+		"image": "images/plants/plant_23.jpg",
+		"name": "plant 23"
+	},
+	{
+		"image": "images/plants/plant_24.jpg",
+		"name": "plant 24"
+	},
+	{
+		"image": "images/plants/plant_25.jpg",
+		"name": "plant 25"
+	},
+	{
+		"image": "images/plants/plant_26.jpg",
+		"name": "plant 26"
+	},
+	{
+		"image": "images/plants/plant_27.jpg",
+		"name": "plant 27"
+	},
+	{
+		"image": "images/plants/plant_28.jpg",
+		"name": "plant 28"
+	},
+	{
+		"image": "images/plants/plant_29.jpg",
+		"name": "plant 29"
 	}
 ]
