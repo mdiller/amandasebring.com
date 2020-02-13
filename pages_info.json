@@ -12,6 +12,12 @@
 		"content": "pets.php"
 	},
 	{
+		"url": "plants",
+		"title": "Plants",
+		"navbar": "Plants",
+		"content": "plants.php"
+	},
+	{
 		"url": "contact",
 		"title": "Contact Information",
 		"navbar": "Contact",

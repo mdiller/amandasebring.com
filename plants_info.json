@@ -1,0 +1,14 @@
+[
+	{
+		"image": "images/plants/plant1.jpg",
+		"name": "plant1"
+	},
+	{
+		"image": "images/plants/plant2.jpg",
+		"name": "plant2"
+	},
+	{
+		"image": "images/plants/plant3.jpg",
+		"name": "plant3"
+	}
+]

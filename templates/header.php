@@ -1,6 +1,7 @@
 <?php
 $json_page_infos = json_decode(file_get_contents("pages_info.json"), true);
 $json_pet_infos = json_decode(file_get_contents("pets_info.json"), true);
+$json_plant_infos = json_decode(file_get_contents("plants_info.json"), true);
 
 define("SITE_URL", "http://" . $_SERVER['SERVER_NAME']);
 
