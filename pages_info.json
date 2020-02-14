@@ -6,6 +6,12 @@
 		"content": "home.php"
 	},
 	{
+		"url": "valentines",
+		"title": "Happy Valentine's Day!",
+		"navbar": "V-Day",
+		"content": "valentines.php"
+	},
+	{
 		"url": "pets",
 		"title": "Family",
 		"navbar": "Family",
