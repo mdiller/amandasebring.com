@@ -3,7 +3,7 @@
 	--highlight-color: #fd7000;
 	--text-color: #555555;
 	--background-color: #f8f8f8;
-	--content-size: 70%;
+	--content-size: 900px;
 	--header-size: 70px;
 	--navbutton-size: 50px;
 	--navbutton-padding: calc((var(--header-size) - var(--navbutton-size)) / 2);
