@@ -5,19 +5,19 @@
 	},
 	{
 		"image": "images/plants/plant_1.jpg",
-		"name": "Giant Swordfin Fern"
+		"name": "Boston Fern"
 	},
 	{
 		"image": "images/plants/plant_2.jpg",
-		"name": "Centipede Tongavine?"
+		"name": "Variegated Pothos"
 	},
 	{
 		"image": "images/plants/plant_3.jpg",
-		"name": "American Rubberplant"
+		"name": "Peperomia"
 	},
 	{
 		"image": "images/plants/plant_4.jpg",
-		"name": "Tarovine"
+		"name": "Split-Leaf Philodendron"
 	},
 	{
 		"image": "images/plants/plant_5.jpg",
@@ -25,7 +25,7 @@
 	},
 	{
 		"image": "images/plants/plant_6.jpg",
-		"name": "Centipede Tongavine?"
+		"name": "Heart-Leaf Philodendron"
 	},
 	{
 		"image": "images/plants/plant_7.jpg",
@@ -33,47 +33,43 @@
 	},
 	{
 		"image": "images/plants/plant_8.jpg",
-		"name": "Ribbonplant?"
+		"name": "Ponytail Palm"
 	},
 	{
 		"image": "images/plants/plant_9.jpg",
-		"name": "Centipede Tongavine?"
+		"name": "Heart-Leaf Philodendron"
 	},
 	{
 		"image": "images/plants/plant_11.jpg",
-		"name": "Centipede Tongavine?"
-	},
-	{
-		"image": "images/plants/plant_12.jpg",
-		"name": "Centipede Tongavine?"
+		"name": "Satin Pothos"
 	},
 	{
 		"image": "images/plants/plant_13.jpg",
-		"name": "Japanese Rubberplant"
+		"name": "Jade Plant"
 	},
 	{
 		"image": "images/plants/plant_14.jpg",
-		"name": "A bunch o' different leafy boys"
+		"name": "Terrarium of Succulents"
 	},
 	{
 		"image": "images/plants/plant_15.jpg",
-		"name": "Japanese Rubberplant"
+		"name": "Jade Plant"
 	},
 	{
 		"image": "images/plants/plant_16.jpg",
-		"name": "Variegated Croton"
+		"name": "Croton"
 	},
 	{
 		"image": "images/plants/plant_17.jpg",
-		"name": "???"
+		"name": "String of Pearls"
 	},
 	{
 		"image": "images/plants/plant_18.jpg",
-		"name": "Pig's-Ear"
+		"name": "Pig's-Ear Succulent"
 	},
 	{
 		"image": "images/plants/plant_19.jpg",
-		"name": "???"
+		"name": "Succulent"
 	},
 	{
 		"image": "images/plants/plant_20.jpg",
@@ -85,23 +81,23 @@
 	},
 	{
 		"image": "images/plants/plant_22.jpg",
-		"name": "Kidneywort"
+		"name": "Pilea Peperomioides"
 	},
 	{
 		"image": "images/plants/plant_23.jpg",
-		"name": "Bog Arum?"
+		"name": "Peace Lily"
 	},
 	{
 		"image": "images/plants/plant_24.jpg",
-		"name": "Thanksgiving Cactus"
+		"name": "Christmas Cactus"
 	},
 	{
 		"image": "images/plants/plant_25.jpg",
-		"name": "African Bowstring-Hemp"
+		"name": "Snake Plant"
 	},
 	{
 		"image": "images/plants/plant_26.jpg",
-		"name": "Thanksgiving Cactus"
+		"name": "Christmas Cactus"
 	},
 	{
 		"image": "images/plants/plant_27.jpg",
@@ -109,7 +105,7 @@
 	},
 	{
 		"image": "images/plants/plant_28.jpg",
-		"name": "Centipede Tongavine?"
+		"name": "Heart-Leaf Philodendron"
 	},
 	{
 		"image": "images/plants/plant_29.jpg",
