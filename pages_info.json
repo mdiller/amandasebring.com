@@ -6,12 +6,6 @@
 		"content": "home.php"
 	},
 	{
-		"url": "valentines",
-		"title": "Happy Valentine's Day!",
-		"navbar": "V-Day",
-		"content": "valentines.php"
-	},
-	{
 		"url": "pets",
 		"title": "Family",
 		"navbar": "Family",
@@ -22,11 +16,5 @@
 		"title": "Plants",
 		"navbar": "Plants",
 		"content": "plants.php"
-	},
-	{
-		"url": "contact",
-		"title": "Contact Information",
-		"navbar": "Contact",
-		"content": "contact.php"
 	}
 ]
